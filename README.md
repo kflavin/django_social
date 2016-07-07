@@ -81,6 +81,6 @@ urlpatterns = [
 ```
 
 Get Authentication keys:
-*[Facebook](http://python-social-auth.readthedocs.io/en/latest/backends/facebook.html)
-*[Twitter](http://python-social-auth.readthedocs.io/en/latest/backends/twitter.html)
-*[Others](http://python-social-auth.readthedocs.io/en/latest/backends/index.html)
+* [Facebook](http://python-social-auth.readthedocs.io/en/latest/backends/facebook.html)
+* [Twitter](http://python-social-auth.readthedocs.io/en/latest/backends/twitter.html)
+* [Others](http://python-social-auth.readthedocs.io/en/latest/backends/index.html)
